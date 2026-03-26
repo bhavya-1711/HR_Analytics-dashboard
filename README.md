@@ -73,7 +73,7 @@ This project presents a **high-impact HR Analytics Dashboard** built using **Pow
 
 ## 👨‍💻 Author
 
-**Ansh Kumar** 🚀
+**Bhavya gupta** 🚀
 
 
 ---
